@@ -1,2 +1,2 @@
 git directory
-edit
+up_to_date
